@@ -1,0 +1,34 @@
+.flex-container {
+    display:flex;
+    flex-direction:row;
+    flex-wrap: nowrap;
+   /* justify-content:space-around;*/
+    
+}
+.vertical-line {
+    width:9px;
+    background-color:gray;
+}
+.heading {
+    font-size:32px;
+    font-style:normal;
+}
+ .list{
+     list-style-type:none;
+     margin:0;
+     padding:0;
+
+ }
+ .nav-link{
+    text-decoration-line:none; 
+ }
+ #navbar {
+     width: 850px;
+ }
+ #header {
+    align-items:center;
+
+ }
+ #main-doc{
+     padding-left:30px;
+ }
